@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @landonelliottdev
-- 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning computer programming 
-- 💞️ I’m looking to collaborate on ...
+<title> Github Code</title>
+- 👋 Hi, I’m Landon Elliott
+- 👀 I’m interested in front-end development, Tech
+- 🌱 I’m currently learning computer programming at EMCC
 - 📫 How to reach me elliottlandon@icloud.com
 
 <!---
